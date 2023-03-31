@@ -1,0 +1,243 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+.navbar {
+    background-color: rgb(221, 144, 144) !important;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+}
+
+.navbar .container-fluid a img {
+    height: 40px;
+    border-radius: 50px;
+}
+
+.navbar .d-flex .button-1 {
+    background-color: #fff;
+    border-radius: 20px;
+    border: 1px solid aqua;
+   
+}
+
+
+.container1 img {
+    margin-top: 4rem;
+    width: 100%;
+    height: 100%;
+} */
+
+/* .container1 {
+    height: 100vh;;
+    background-image: url('./assets/images/Hoodies01.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+} */
+/* .container1 span {
+  
+    color: black;
+    font-size: 3vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: normal;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-2%, 50%);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+} */
+
+
+/* .Hoodies01{
+    position: relative;
+}
+.Hoodies01 img {
+    width: 100%;
+    height: 100vh;
+} */
+
+
+/* .content {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transition: 0.6s;
+} */
+
+
+/* .banner-text {
+    position: absolute;
+    top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+   
+    font-size: 30px;
+}
+
+.banner-text h2 {
+    color: black;
+    font-size: 50px;
+}
+
+.banner-text p {
+    color: black;
+}
+
+.banner-text p .Hoodie-head {
+    color: rgb(192, 49, 49);
+}
+
+content:hover {
+    opacity: 0;
+}
+
+.content h1 {
+    font-size: 55px;
+    color: brown;
+    margin-bottom: 15px;
+}
+
+.textcolor{
+    font-size:40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color:blueviolet;
+}
+
+
+.cards-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.servicescols {
+    margin-top: 2rem;
+    
+    height: 62vh;
+   
+}
+.servicescols .card{
+    margin: 0.5rem;
+}
+.card{
+    
+    border: none;
+    border-radius: 20px;
+    margin-bottom: -2rem;
+    transition: all ease 0.4s;
+}
+
+.card:hover{
+    box-shadow: 0px 0px 12px  gray;
+    cursor: pointer;
+    
+  
+}
+.card img{
+   height: 15rem;
+   border-radius: 20px;
+} */
+
+
+
+
+
+
+/* .servicescols .card .card-body .btn {
+    width: 120px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+} */
+
+/* .card:hover {
+    cursor: pointer;
+    margin-left: 0.2rem;
+    rotate: -1deg;
+
+} */
+
+/* .card .card-body .card-title {
+    font-weight: bold;
+}
+
+.card .card-body .btn {
+    border-radius: 20px;
+
+}
+
+.services h1 {
+    color: crimson;
+} */
+
+/* .footer-1 {
+    height: 45vh;
+} */
+
+/* footer {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 70vh;
+
+}
+
+.providercolor ul li a i.fa-facebook {
+    color: blue !important;
+}
+
+.providercolor ul li a i.fa-twitter {
+    color: #1DA1F2 !important;
+}
+
+.providercolor ul li a i.fa-instagram {
+    color: #d62976 !important;
+}
+
+.providercolor ul li a i.fa-facebook {
+    color: rgb(47, 47, 238) !important;
+}
+
+.rights p {
+
+    text-align: end;
+    
+}
+
+.contact p span {
+    font-weight: normal;
+    
+}
+
+.footercolor {
+    background-color: rgb(74, 95, 89) !important;
+}
+
+.contact  p h4 {
+   
+    font-weight: 50px;
+}
+.productname p a span{
+    font-weight: normal;
+} */
